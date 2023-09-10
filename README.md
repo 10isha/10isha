@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/10isha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="10isha" height="30" width="40" /></a>
-<a href="https://kaggle.com/10isha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="10isha" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rupal17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rupal17" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tanisha-sahu-197882232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="10isha" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/tanisha3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="10isha" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/10isha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rupal17" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
